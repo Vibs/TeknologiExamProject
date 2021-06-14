@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class MainController {
 
 
-    // dette er en get hhh
+    // dette er en get hhhlol
     @GetMapping("/")
     public String index(){
         return "index";
